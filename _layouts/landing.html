@@ -26,16 +26,14 @@
 
                     <p>{{ page.description }}</p>
 
-
-                    <br>
-                      {% for tag in page.tags %}
-                        <a href="/tags/{{tag}}" class="button small" type="button">{{tag}}</a>
-                      {% endfor %}
-                    </br>
-                    
-
                 </div>
-
+                <div class="style2">
+                  <br>
+                    {% for tag in page.tags %}
+                      <a href="/tags/{{tag}}" class="button small" type="button">{{tag}}</a>
+                    {% endfor %}
+                  </br>
+                </div>
             </div>
 
 
