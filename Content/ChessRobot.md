@@ -14,7 +14,7 @@ tags: [Robotics, Machine Vision, ROS]
 <!-- One -->
 
 <section id="one" class="spotlights">
-  </section>
+  <section>
     <div class="inner">
       <div class="video-frame">
         <p align = "center">
