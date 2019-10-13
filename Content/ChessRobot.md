@@ -16,7 +16,7 @@ tags: [Robotics, Machine Vision, ROS]
 	<div class="inner">
     <div class="video-frame">
       <p align = "center">
-        <iframe width="800" height=auto src="https://player.vimeo.com/video/291377091" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
+        <iframe width="560" height="315" src="https://player.vimeo.com/video/291377091" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
       </p>
     </div>
   </div>
@@ -35,4 +35,74 @@ tags: [Robotics, Machine Vision, ROS]
 			</div>
 		</div>
 	</section>
+</section>
+
+
+<section id="three" class="spotlights">
+	<section>
+		<img src="assets/images/Chess/Chessboard.tiff" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Find Chessboard Corners</h3>
+				</header>
+				<p>Fetch picture from the feed..</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<img src="assets/images/Chess/Threshold.tiff" alt="" data-position="25% 25%" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Adaptive Thresholding</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+			</div>
+		</div>
+	</section>
+  <section>
+    <img src="assets/images/Chess/Mask.tiff" alt="" data-position="25% 25%" />
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Masking</h3>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <img src="assets/images/Chess/Canny.tiff" alt="" data-position="25% 25%" />
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Canny Edge Detection</h3>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <img src="assets/images/Chess/Hough.tiff" alt="" data-position="25% 25%" />
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>Hough Lines</h3>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
+  <section>
+    <img src="assets/images/Chess/Classified2.tiff" alt="" data-position="25% 25%" />
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>BWE Matrix</h3>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+      </div>
+    </div>
+  </section>
 </section>
