@@ -11,7 +11,6 @@ tags: [Robotics, Machine Vision, ROS]
 <!-- Main -->
 <div id="main">
 
-
 <!-- One -->
 
 <section id="one" class="spotlights">
@@ -19,7 +18,7 @@ tags: [Robotics, Machine Vision, ROS]
     <div class="inner">
       <div class="video-frame">
         <p align = "center">
-          <iframe width="560" height="315" src="https://player.vimeo.com/video/291377091" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
+          <iframe width="640" height="480" src="https://player.vimeo.com/video/291377091" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
         </p>
       </div>
     </div>
