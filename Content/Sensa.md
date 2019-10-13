@@ -16,7 +16,7 @@ nav-menu: true
 	<div class="inner">
     <div class="video-frame">
       <p align = "center">
-        <iframe width=70vw src="https://player.vimeo.com/video/366079780" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
+        <iframe width="70%" height="auto" src="https://player.vimeo.com/video/366079780" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
       </p>
     </div>
   </div>
