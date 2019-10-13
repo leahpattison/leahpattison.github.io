@@ -3,6 +3,13 @@
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  <div class="style2">
+    <br>
+      {% for tag in page.tags %}
+        <a href="/tags/{{tag}}" class="button small" type="button">{{tag}}</a>
+      {% endfor %}
+    </br>
+  </div>
 -->
 <html>
 
@@ -26,13 +33,6 @@
 
                     <p>{{ page.description }}</p>
 
-                </div>
-                <div class="style2">
-                  <br>
-                    {% for tag in page.tags %}
-                      <a href="/tags/{{tag}}" class="button small" type="button">{{tag}}</a>
-                    {% endfor %}
-                  </br>
                 </div>
             </div>
 
