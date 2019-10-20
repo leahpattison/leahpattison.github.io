@@ -11,13 +11,17 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-    <div class="video-frame">
-      <p align = "center">
-        <iframe  width="640" height="480" src="https://player.vimeo.com/video/366079780" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
-      </p>
+	<section id="one">
+		<div class="inner">
+			<div class="iframe-container">
+				<p align = "center">
+					<iframe src="https://player.vimeo.com/video/366079780" allowfullscreen="" ></iframe>
+				</p>
+			</div>
+	    <header class="major">
+
+	    </header>
+	    <p>Sensa is a mobile healthcare monitoring system which aims to use a blend of self reported measures and physiological signal analysis to detect stress and guide users to improve their state using personalised exercises. I was in charge of application design and development and involved with implementation of key app features.</p>
+	    <p>Check out the <a href="https://github.com/nebbles/MHML">Github repository</a>.</p>
     </div>
-  </div>
-</section>
+	</section>

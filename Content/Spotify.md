@@ -6,3 +6,21 @@ image: assets/images/Spotify/Title-01.png
 nav-menu: true
 tags: ['Raspberry Pi', 'CSS', 'HTML', 'JavaScript', 'Python', 'API']
 ---
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- Main -->
+<div id="main">
+
+	<section id="one">
+		<div class="inner">
+	    <header class="major">
+
+	    </header>
+				<p>
+				 For two weeks data was collected using the Spotify API and Dark Sky weather API on the music I listen to and the weather in London. By correlating this data, an application was designed to create a playlist based on the weather at the listeners location. A regression model was created to map the weather in London to audio features of a Spotify track. The data was split 3:1 to train then test the model with an R squared of 0.5. Using the Ipinfo API, the website access' the location of the users computer. The Dark Sky API is then called to get the weather prediction in that given location. This data is run through the regression model to output predicted audio features of the song. The Spotify recommends API is then called to find songs matching these features. These songs are added to a playlist on the users Spotify account.
+	 			</p>
+	    	<p>Check out the <a href="https://github.com/leahpattison/Sensing-IOT">Github repository</a>.</p>
+
+		</div>
+	</section>

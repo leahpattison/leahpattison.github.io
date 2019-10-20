@@ -1,0 +1,41 @@
+I"D	<!-- Main -->
+<div id="main" class="alt">
+
+
+<!-- One -->
+<section id="one">
+	<div class="iframe-container">
+	  <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen=""></iframe>
+	</div>
+	<div class="inner">
+    <p align="center">
+      <iframe width="1280" height="720" src="https://player.vimeo.com/video/291377091" allowfullscreen=""></iframe>
+    </p>
+    <header class="major">
+      <h3>Project Breakdown</h3>
+    </header>
+    <p>The aim of this project was to code a 7 degree of freedom robotic arm to play a fully automated game of chess. This was a team project in which I worked on the perception module. This involved sensing the locations of the chess pieces after each move in the game. OpenCv was used with a RBG-D Camera.</p>
+    <p>Check out the <a href="https://github.com/nebbles/DE3-ROB1-CHESS">Github repository</a> and the <a href="https://de3-rob1-chess.readthedocs.io/en/latest/">documentation</a>.</p>
+    <span class="image fit"><img src="/assets/images/Chess/setup.png" alt="" /></span>
+    <span class="image fit"><img src="/assets/images/Chess/calibration.png" alt="" /></span>
+    <span class="image fit"><img src="/assets/images/Chess/perception.png" alt="" /></span>
+    <span class="image fit"><img src="/assets/images/Chess/chess1.png" alt="" /></span>
+
+    <div class="box alt">
+    	<div class="row 50% uniform">
+    		<div class="4u"><span class="image fit"><img src="/assets/images/Chess/Threshold.png" alt="" /></span></div>
+    		<div class="4u"><span class="image fit"><img src="/assets/images/Chess/Chessboard.png" alt="" /></span></div>
+    		<div class="4u$"><span class="image fit"><img src="/assets/images/Chess/Mask.png" alt="" /></span></div>
+    		<!-- Break -->
+        <div class="4u"><span class="image fit"><img src="/assets/images/Chess/Canny.png" alt="" /></span></div>
+    		<div class="4u"><span class="image fit"><img src="/assets/images/Chess/Hough.png" alt="" /></span></div>
+    		<div class="4u$"><span class="image fit"><img src="/assets/images/Chess/Classified.png" alt="" /></span></div>
+    		<!-- Break -->
+        <div class="4u"><span class="image fit"><img src="/assets/images/Chess/Classified2.png" alt="" /></span></div>
+    		<div class="4u$"><span class="image fit"><img src="/assets/images/Chess/Classified3.png" alt="" /></span></div>
+    	</div>
+    </div>
+  </div>
+</section>
+</div>
+:ET
