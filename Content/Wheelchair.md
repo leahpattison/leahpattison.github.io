@@ -38,7 +38,9 @@ tags: ['Adobe Illustrator', 'Solidworks', 'Adobe InDesign', 'Testing', 'Mechanis
     </div>
 
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/Diagram.jpg" alt="" /></span>
+
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/IMG_9581.jpg" alt="" /></span>
+
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/180119_dyson_IWAS_frame_project_037.jpg" alt="" /></span>
 
   </div>
