@@ -2,7 +2,7 @@
 title: Chess Robot
 layout: landing
 description: 'A fully automated chess playing robot using the FRANKA Panda arm.'
-image: assets/images/Chess/chess1.png
+image: assets/images/Chess/chess1.jpg
 nav-menu: true
 tags: [Robotics, Machine Vision, ROS]
 ---
