@@ -26,7 +26,7 @@ tags: [Robotics, Machine Vision, ROS]
     <p>The aim of this project was to code a 7 degree of freedom robotic arm to play a fully automated game of chess. This was a team project in which I worked on the perception module. This involved sensing the locations of the chess pieces after each move in the game. OpenCv was used with a RBG-D Camera.</p>
     <p>Check out the <a href="https://github.com/nebbles/DE3-ROB1-CHESS">Github repository</a> and the <a href="https://de3-rob1-chess.readthedocs.io/en/latest/">documentation</a>.</p>
 		<span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/Diagram1.png" alt="" /></span>
-		<span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/setup.jpg" alt="" /></span>
+		<span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/setup.png" alt="" /></span>
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/calibration.jpg" alt="" /></span>
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/perception.jpg" alt="" /></span>
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Chess/chess1.jpg" alt="" /></span>
