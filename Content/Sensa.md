@@ -2,14 +2,14 @@
 title: Sensa
 layout: landing
 description: 'A mobile healthcare monitoring system to detect stress and guide users to improve their state using personalised exercises.'
-image: assets/images/pic07.jpg
+image: assets/images/Wheelchair/180119_dyson_IWAS_frame_project_037.jpg
 tags: ['Unity', 'UX', 'C#', 'Adobe XD', 'App Development']
 nav-menu: true
 ---
 
 
 <!-- Main -->
-<div id="main">
+<div id="main" class="alt">
 
 	<section id="one">
 		<div class="inner">

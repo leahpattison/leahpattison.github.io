@@ -17,7 +17,6 @@ tags: ['Adobe Illustrator', 'Solidworks', 'Adobe InDesign', 'Testing', 'Mechanis
     </header>
     <p>I was part of a team to design a low cost wheelchair fencing frame for manufacture and use in low income countries to increase international accessibility to sport. This was completed with the funding and support of the <a href = "http://www.iwasf.com/iwasf/"> International Wheelchair & Amputee Sports Federation</a> as part of a research placement at Imperial College London.</p>
 
-    <p>Add in benefits of the sport, benchmarking and process.</p>
 
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC086925.jpg" alt="" /></span>
 

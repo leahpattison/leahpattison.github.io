@@ -17,7 +17,7 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 100vh;
+		height: 50vh;
 		margin-bottom: -3.25em;
 		max-height: 100em;
 		min-height: 22em;
@@ -104,12 +104,7 @@
 			}
 		}
 
-		&.style1 { &:after { background-color: _palette(accent1); } }
-		&.style2 { &:after { background-color: _palette(accent2); } }
-		&.style3 { &:after { background-color: _palette(accent3); } }
-		&.style4 { &:after { background-color: _palette(accent4); } }
-		&.style5 { &:after { background-color: _palette(accent5); } }
-		&.style6 { &:after { background-color: _palette(accent6); } }
+
 
 		body.is-loading & {
 			&:after {
