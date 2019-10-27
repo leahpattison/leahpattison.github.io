@@ -22,23 +22,23 @@ tags: ['Adobe Illustrator', 'Solidworks', 'Adobe InDesign', 'Testing', 'Mechanis
 
     <div class="box alt">
       <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08744.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08652.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08746.jpg" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08744.JPG" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08652.JPG" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08746.JPG" alt="" /></span></div>
       </div>
     </div>
 
-    <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08644.jpg" alt="" /></span>
+    <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08644.JPG" alt="" /></span>
 
     <div class="row 50%">
-      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08738.jpg" alt="" /></span></div>
-      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08655.jpg" alt="" /></span></div>
-      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08741.jpg" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08738.JPG" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08655.JPG" alt="" /></span></div>
+      <div class="4u"><span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC08741.JPG" alt="" /></span></div>
     </div>
 
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/Diagram.jpg" alt="" /></span>
 
-    <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/IMG_9581.jpg" alt="" /></span>
+    <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/IMG_9581.JPG" alt="" /></span>
 
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/180119_dyson_IWAS_frame_project_037.jpg" alt="" /></span>
 
