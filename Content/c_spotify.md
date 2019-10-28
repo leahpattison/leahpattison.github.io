@@ -9,8 +9,7 @@ tags: ['Raspberry Pi', 'CSS', 'HTML', 'JavaScript', 'Python', 'API']
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- Main -->
-<div id="main">
+
 
 	<section id="one">
 		<div class="inner">

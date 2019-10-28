@@ -12,15 +12,9 @@ tags: [Card Game]
 
 	<section id="one">
 		<div class="inner">
-			<div class="iframe-container">
-				<p align = "center">
-					<iframe src="https://www.youtube.com/embed/xFia_E5GuB0" allowfullscreen="" ></iframe>
-				</p>
-			</div>
 	    <header class="major">
 
 	    </header>
-
 
 			<span class="image fit"><img src="{{site.baseurl}}/assets/images/Onit/P10401482.jpg" alt="" /></span>
 

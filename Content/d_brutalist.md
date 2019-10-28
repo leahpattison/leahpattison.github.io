@@ -1,7 +1,7 @@
 ---
 title: Brutalist Tapestry
 layout: landing
-description: 'A large scale installation within Beech Street Tunnel which uses data t relay stories through mechanical tapestries, completed while at Jason Bruges Studio.'
+description: 'A large scale installation within Beech Street Tunnel which uses data to relay stories through mechanical tapestries, completed while at Jason Bruges Studio.'
 image: assets/images/Brutalist/1O7A9664.jpg
 nav-menu: true
 tags: [Engineering, Project Management, On Site Experience, Procurement]
