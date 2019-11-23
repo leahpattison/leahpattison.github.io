@@ -7,7 +7,7 @@ nav-menu: true
 tags: ['Adobe Illustrator', 'Solidworks', 'Adobe InDesign', 'Testing', 'Mechanisms', 'Rapid Prototyping']
 ---
 <!-- Main -->
-<div id="main" class="alt">
+
 
 <!-- One -->
 <section id="one">

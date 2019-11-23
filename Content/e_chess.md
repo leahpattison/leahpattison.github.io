@@ -7,9 +7,6 @@ nav-menu: true
 tags: [Robotics, Machine Vision, ROS]
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
 
 <!-- One -->
 <section id="one">
