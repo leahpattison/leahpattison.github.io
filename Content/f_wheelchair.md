@@ -13,9 +13,27 @@ tags: ['Adobe Illustrator', 'Solidworks', 'Adobe InDesign', 'Testing', 'Mechanis
 <section id="one">
 	<div class="inner">
     <header class="major">
-      <h3>Project Breakdown</h3>
+      <h3>Project Breakdown.</h3>
     </header>
-    <p>I was part of a team to design a low cost wheelchair fencing frame for manufacture and use in low income countries to increase international accessibility to sport. This was completed with the funding and support of the <a href = "http://www.iwasf.com/iwasf/"> International Wheelchair & Amputee Sports Federation</a> as part of a research placement at Imperial College London.</p>
+    <p>I was part of a team to design a low cost wheelchair fencing frame for manufacture and use in low income countries to increase international accessibility to sport. This was completed with the funding and support of the <a href = "http://www.iwasf.com/iwasf/"> International Wheelchair & Amputee Sports Federation</a> as part of a research placement at Imperial College London.
+		</p>
+		<span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/Diagram.png" alt="" /></span>
+		<header class="major">
+			<h3>Insight.</h3>
+		</header>
+
+		<p>
+		Those with disabilities in developing counties are often excluded from educating, employment and the community, inhibiting their social and mental development. We aimed to make wheelchair fencing more accessible worldwide by reducing the cost from £2000 to £200. We worked with Para-Olympic gold medalist Dimitri Coutya to develop the frames specifications.
+		</p>
+
+		<header class="major">
+			<h3>Testing.</h3>
+		</header>
+			  <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/testing.png" alt="" /></span>
+
+		<header class="major">
+      <h3>Final Product.</h3>
+    </header>
 
 
     <span class="image fit"><img src="{{site.baseurl}}/assets/images/Wheelchair/DSC086925.jpg" alt="" /></span>

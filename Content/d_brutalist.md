@@ -5,7 +5,7 @@ description: 'A large scale installation within Beech Street Tunnel which uses d
 image: assets/images/Brutalist/1O7A9664.jpg
 nav-menu: true
 tags: [Engineering, Project Management, On Site Experience, Procurement]
-show_tile: false
+show_tile: true
 ---
 <!-- Main -->
 

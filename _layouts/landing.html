@@ -21,34 +21,28 @@
         <section id="banner" class="style2">
             <div class="inner">
                 <span class="image">
-                    <img src="{{site.baseurl}}/assets/images/Wheelchair/180119_dyson_IWAS_frame_project_037.jpg" alt="">
+                    <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
                 </span>
                 <header class="major">
-
                     <h1>{{ page.title }}</h1>
-
                 </header>
                 <div class="content">
-
                     <p>{{ page.description }}</p>
-
                 </div>
                     {% for tag in page.tags %}
                       <a href="/tags/{{tag}}" class="button small" type="button">{{tag}}</a>
                     {% endfor %}
-                </div>
             </div>
-          
         </section>
         <div id="main" class="alt">
-        <section id="one">
-            <div class="inner">
-                <p>{{ content }}</p>
-            </div>
-        </section>
+          <section id="one">
+              <div class="inner">
+                  <p>{{ content }}</p>
+              </div>
+          </section>
 
-        {% include footer.html %}
-
+          {% include footer.html %}
+       </div>
     </body>
 
 </html>
