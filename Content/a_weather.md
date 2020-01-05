@@ -5,7 +5,7 @@ description: 'A mobile healthcare monitoring system to detect stress and guide u
 image: assets/images/Wheelchair/180119_dyson_IWAS_frame_project_037.jpg
 tags: ['Unity', 'UX', 'C#', 'Adobe XD', 'App Development']
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 
