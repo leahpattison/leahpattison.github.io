@@ -20,14 +20,14 @@ personal-email: leah.pattison@hotmail.co.uk
 #work-email:
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username: leahpattison
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 8
 
 # social settings
 500px_url:
